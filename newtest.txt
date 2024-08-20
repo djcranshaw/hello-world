@@ -1,2 +1,3 @@
 This is a new text file, on secondbranch only
 This is my second edit to newtest
+I'm going to add another line
